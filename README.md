@@ -7,7 +7,7 @@
 
 ---
 
-<img align="right" width="470px" height="300px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif">
+<img align="left" width="470px" height="300px" src="https://media0.giphy.com/media/BACNp4PYgXACSPujxi/200.webp?cid=ecf05e47czdtdnqxmled37wxu9qt20n3o1qaicw3jvk8qj9p&rid=200.webp&ct=g">
 
 - 👨🏽‍💻   Currently, I'm studying and training to be a **Full-Stack Software Developer** at [Microverse](https://microverse.org).
 
