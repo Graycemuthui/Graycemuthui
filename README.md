@@ -20,12 +20,6 @@
 - 💻   You can view all **my projects** by clicking on this [link](https://github.com/Graycemuthui?tab=repositories). Feel free to open an issue in any project if you spot a bug and I will try to fix it as soon as possible.
 
  <h2>📲  Let's Connect<h2>
- <a href="https://twitter.com/Grayce_Muthui">
-  <img align="left" alt="Shaquille Ndunda Twitter" height="24px" src="https://raw.githubusercontent.com/shaqdeff/shaqdeff/main/twitter.png" />
- </a>
- <a href="https://www.linkedin.com/in/grayce-muthui/">
-  <img align="left" alt="Shaquil LinkedIn" height="24px" src="https://raw.githubusercontent.com/shaqdeff/shaqdeff/main/linkedin.png" />
- </a>
 </br>
  
  <h2>🛠 Languages & Tools<h2>
@@ -40,11 +34,21 @@
                                                                                                                                            
  </p>
      
-  </br>
-   <div>      
+ </br>
+ <div>      
+ <img height="200" width="490" align="right"  src="https://github-readme-stats-eight-theta.vercel.app/api?username=graycemuthui&show_icons=true&theme=gruvbox" alt="Grayce's GitHub Stats"/>
+ <img height="200" width="490" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=graycemuthui&theme=gruvbox&layout=compact"/>
+ </div>
+    
+ </br>
+    
+ 
+ <h2>🎵 Playing On Spotify</h2>  
+      
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31otta7twhjqdmryeiw5zcbogsei&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=31otta7twhjqdmryeiw5zcbogsei&redirect=true)
 
-![Graycemuthui's GitHub stats](https://github-readme-stats.vercel.app/api?username=graycemuthui&show_icons=true&theme=radical)
-</div>
+  
 
-</br>
+     
+    
    
