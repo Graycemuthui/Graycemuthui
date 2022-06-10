@@ -23,7 +23,7 @@
   <a href="https://twitter.com/Grayce_Muthui">
   <img align="left" alt="Grayce Muthui's Twitter" height="24px" src="https://raw.githubusercontent.com/shaqdeff/shaqdeff/main/twitter.png" />
  </a>
- <a href="http://www.linkedin.com/in/grayce-muthui-a17294226">
+ <a href="https://www.linkedin.com/in/grayce-muthui/">
   <img align="left" alt="Grayce's LinkedIn" height="24px" src="https://raw.githubusercontent.com/shaqdeff/shaqdeff/main/linkedin.png" />
  </a>
 </br>
