@@ -9,17 +9,23 @@
 
 <img align="left" width="470px" height="300px" src="https://media0.giphy.com/media/BACNp4PYgXACSPujxi/200.webp?cid=ecf05e47czdtdnqxmled37wxu9qt20n3o1qaicw3jvk8qj9p&rid=200.webp&ct=g">
 
-- 👨🏽‍💻   Currently, I'm studying and training to be a **Full-Stack Software Developer** at [Microverse](https://microverse.org).
+- 👨🏽‍💻 Currently, I'm studying and training to be a **Full-Stack Software Developer** at [Microverse](https://microverse.org).
 
-- 👥   I'm open to collaborations. Feel free to reach out to me if you have a project you'd like me on.
+- 👥 I'm open to collaborations. Feel free to reach out to me if you have a project you'd like me on.
 
-- 🥷🏽   I'm currently learning **HTML5**, **CSS3 & CSS Frameworks**, and **JavaScript**.
+- 🥷🏽 I'm currently learning **HTML5**, **CSS3 & CSS Frameworks**, and **JavaScript**.
 
-- 🗓   Ask me about **HTML**, **CSS**, and **JavaScript**.
+- 🗓 Ask me about **HTML**, **CSS**, and **JavaScript**.
 
-- 💻   You can view all **my projects** by clicking on this [link](https://github.com/Graycemuthui?tab=repositories). Feel free to open an issue in any project if you spot a bug and I will try to fix it as soon as possible.
+- 💻 You can view all **my projects** by clicking on this [link](https://github.com/Graycemuthui?tab=repositories). Feel free to open an issue in any project if you spot a bug and I will try to fix it as soon as possible.
 
  <h2>📲  Let's Connect<h2>
+  <a href="https://twitter.com/Grayce_Muthui">
+  <img align="left" alt="Grayce Muthui's Twitter" height="24px" src="https://raw.githubusercontent.com/shaqdeff/shaqdeff/main/twitter.png" />
+ </a>
+ <a href="http://www.linkedin.com/in/grayce-muthui-a17294226">
+  <img align="left" alt="Grayce's LinkedIn" height="24px" src="https://raw.githubusercontent.com/shaqdeff/shaqdeff/main/linkedin.png" />
+ </a>
 </br>
  
  <h2>🛠 Languages & Tools<h2>
@@ -46,9 +52,3 @@
  <h2>🎵 Playing On Spotify</h2>  
       
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31otta7twhjqdmryeiw5zcbogsei&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=31otta7twhjqdmryeiw5zcbogsei&redirect=true)
-
-  
-
-     
-    
-   
