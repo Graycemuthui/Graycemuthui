@@ -3,7 +3,7 @@
 </h1>
 <h3 align="center">A software developer and artist from Nairobi, Kenya.</h3>
 
-<p align="center">I'm a full stack software developer student, and an artist. I enjoy making web applications and music as they both require a lot of creativity, and I'm working on being the best on both fields</p>
+<p align="center">I'm a full stack software developer student, and an artist. I enjoy making web applications and music as they both require a lot of creativity, and I'm working on being the best on both fields. I really enjoy solving problems and I am open to work.</p>
 
 ---
 
