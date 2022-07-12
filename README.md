@@ -41,9 +41,12 @@
  </p>
      
  </br>
+ 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Graycemuthui&theme=monokai)](https://git.io/streak-stats)
  <div>      
  <img height="200" width="490" align="right"  src="https://github-readme-stats-eight-theta.vercel.app/api?username=graycemuthui&show_icons=true&theme=gruvbox" alt="Grayce's GitHub Stats"/>
  <img height="200" width="490" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=graycemuthui&theme=gruvbox&layout=compact"/>
+
  </div>
     
  </br>
@@ -52,3 +55,8 @@
  <h2>🎵 Playing On Spotify</h2>  
       
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31otta7twhjqdmryeiw5zcbogsei&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=31otta7twhjqdmryeiw5zcbogsei&redirect=true)
+
+
+
+
+
