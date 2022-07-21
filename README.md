@@ -11,6 +11,8 @@
 
 - 👨🏽‍💻 Currently, I'm studying and training to be a **Full-Stack Software Developer** at [Microverse](https://microverse.org).
 
+- Also I'm currently collaborating on an Opensource Project [News360](https://github.com/Scriptonauts/News360)
+
 - 👥 I'm open to collaborations. Feel free to reach out to me if you have a project you'd like me on.
 
 - 🥷🏽 I'm currently learning **HTML5**, **CSS3 & CSS Frameworks**, and **JavaScript**.
