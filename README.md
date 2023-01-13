@@ -48,9 +48,8 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Graycemuthui&theme=monokai)](https://git.io/streak-stats)
     
  <div>      
- <img height="200" width="490" align="right"  src="https://github-readme-stats-eight-theta.vercel.app/api?username=Graycemuthui&show_icons=true&theme=gruvbox" alt="Grayce's GitHub Stats"/>
-  <img height="200" width="490" align="right"  padding="2rem" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Graycemuthui&layout=compact" alt "Languages"/>
-<!--   <img height="200" width="490" align="right" padding="2rem" src ="https://github.com/Graycemuthui/github-readme-stats" /> -->
+ <img height="200" width="490" align="right" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Graycemuthui&show_icons=true&theme=gruvbox" alt="Grayce's GitHub Stats"/>
+  <img height="200" width="490" align="right" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Graycemuthui&layout=compact" alt "Languages"/>
   
 
  </div>
