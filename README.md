@@ -49,17 +49,13 @@
     
  <div>      
  <img height="200" width="490" align="right"  src="https://github-readme-stats-eight-theta.vercel.app/api?username=Graycemuthui&show_icons=true&theme=gruvbox" alt="Grayce's GitHub Stats"/>
-  <img height="200" width="490" align="right" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Graycemuthui&layout=compact" alt "Languages"/>
-  <img height="200" width="490" align="right" src ="https://github.com/Graycemuthui/github-readme-stats" />
+  <img height="200" width="490" align="right"  padding="2rem" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Graycemuthui&layout=compact" alt "Languages"/>
+<!--   <img height="200" width="490" align="right" padding="2rem" src ="https://github.com/Graycemuthui/github-readme-stats" /> -->
   
 
  </div>
     
  </br>
-<!--  <div>
-  <img height="200" width="490" align="right" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Graycemuthui&layout=compact" alt "Languages"/>
-  <img height="200" width="490" align="right" src ="https://github.com/Graycemuthui/github-readme-stats" />
-    </div> -->
  <h2>🎵 Playing On Spotify</h2>  
       
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31otta7twhjqdmryeiw5zcbogsei&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=31otta7twhjqdmryeiw5zcbogsei&redirect=true)
