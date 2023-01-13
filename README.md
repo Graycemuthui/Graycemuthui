@@ -56,6 +56,8 @@
     
  </br>
     
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Graycemuthui&layout=compact)](https://github.com/Graycemuthui/github-readme-stats)
+ 
  
  <h2>🎵 Playing On Spotify</h2>  
       
