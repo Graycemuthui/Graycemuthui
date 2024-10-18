@@ -1,9 +1,9 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there!+👋🏽;I'm+Grayce!+🦈;Nice+to+meet+you!+🙂&center=true&size=30&color=29d2a">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Wagwan!+👋🏽;I'm+Grayce!+🦈;Nice+to+meet+you!+🙂&center=true&size=30&color=29d2a">
 </h1>
 <h3 align="center">A software developer and artist from Nairobi, Kenya.</h3>
 
-<p align="center">I'm a full stack software developer student, and an artist. I enjoy making web applications and music as they both require a lot of creativity, and I'm working on being the best on both fields. I really enjoy solving problems and I am open to working opportunities.</p>
+<p align="center">I'm a full stack software developer, a founder and an artist. I enjoy making applications and music as they both require a lot of creativity, and I'm working on being the best on both fields. I really enjoy solving problems and I am open to working opportunities.</p>
 
 ---
 
@@ -14,10 +14,10 @@
 - 💻 You can view all **my projects** by clicking on this [link](https://github.com/Graycemuthui?tab=repositories). Feel free to open an issue in any project if you spot a bug and I will try to fix it as soon as possible.
 
  <h2>📲  Let's Connect<h2>
-  <a href="https://twitter.com/Grayce_Muthui">
+  <a href="https://x.com/_gracemuthui">
   <img align="left" alt="Grayce Muthui's Twitter" height="24px" src="https://raw.githubusercontent.com/shaqdeff/shaqdeff/main/twitter.png" />
  </a>
- <a href="https://www.linkedin.com/in/grayce-muthui/">
+ <a href="https://www.linkedin.com/in/grace-muthui/    ">
   <img align="left" alt="Grayce's LinkedIn" height="24px" src="https://raw.githubusercontent.com/shaqdeff/shaqdeff/main/linkedin.png" />
  </a>
 </br>
