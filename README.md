@@ -55,11 +55,4 @@
  </div>
     
  </br>
- <h2>🎵 Playing On Spotify</h2>  
-      
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31otta7twhjqdmryeiw5zcbogsei&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=31otta7twhjqdmryeiw5zcbogsei&redirect=true)
-
-
-
-
-
+ 
